@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS swift_invoice_main;
